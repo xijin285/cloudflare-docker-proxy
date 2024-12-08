@@ -30,7 +30,7 @@
    - add more records and modify the config as you need
    ```javascript
    const routes = {
-     "docker.anto.us.kg": "https://registry-1.docker.io",
+     "jx.anto.us.kg": "https://registry-1.docker.io",
      "quay.anto.us.kg": "https://quay.io",
      "gcr.anto.us.kg": "https://k8s.gcr.io",
      "k8s-gcr.anto.us.kg": "https://k8s.gcr.io",
