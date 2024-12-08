@@ -7,7 +7,7 @@ const dockerHub = "https://registry-1.docker.io";
 
 const routes = {
   // production
-  "docker.anto.us.kg": dockerHub,
+  "jx.anto.us.kg": dockerHub,
   "quay.anto.us.kg": "https://quay.io",
   "gcr.anto.us.kg": "https://gcr.io",
   "k8s-gcr.anto.us.kg": "https://k8s.gcr.io",
